@@ -14,7 +14,9 @@ An interactive web application for visualizing chemical compounds in 3D using SV
 
 ## Demo
 
-[Add a screenshot or GIF of your application here]
+![PubChem Diagrams App Screenshot](docs/images/app-screenshot.png)
+
+The screenshot above shows the application visualizing a molecule with the control panel on the right for adjusting visualization settings.
 
 ## Getting Started
 
